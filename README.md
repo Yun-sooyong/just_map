@@ -1,16 +1,19 @@
 # just_map
 
-A new Flutter application.
+## Source
 
-## Getting Started
+[Google Map with Places Autocomplete in Flutter, Part 1 ~ 4](https://www.youtube.com/playlist?list=PLKlZdGMAYp69rO-DoOvnBtFigcEKhUFG2)
 
-This project is a starting point for a Flutter application.
+## Use
 
-A few resources to get you started if this is your first Flutter project:
+* Maps SDK for Android
+* Maps SDK for iOS
+* Places API
+* BLoC Pattern
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 진행으로 알게 된 점
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. API 사용법
+2. Document 중요성
+3. BLoC Pattern
+4. 자신의 노력 부족
