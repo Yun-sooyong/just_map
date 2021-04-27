@@ -11,9 +11,9 @@
 * Places API
 * BLoC Pattern
 
-## 진행으로 알게 된 점
+## 공부한 내용
 
 1. API 사용법
 2. Document 중요성
-3. BLoC Pattern
-4. 자신의 노력 부족
+3. JSON 사용법
+4. BLoC Pattern
